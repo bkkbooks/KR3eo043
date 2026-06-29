@@ -1,0 +1,147 @@
+canonical_identifier: bkk:krp/KR3eo043/v1
+canonical_location: https://kanripo.org/bkk/KR3eo043/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 隨息居飲食譜
+  identifiers:
+    krp: KR3eo043
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo043.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo043_000.yaml, hash: 'sha256:446c646f7a8c36590b1ee6026c62ba5bd183e701e35efa2995a419fdee1eeb1c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo043_000.markers.yaml, hash: 'sha256:26d3e83469a632ad4ae13895cd4c10c7e14bbd5dc31ba49bcd3f3255b81f6f96'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo043_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 320
+  label: 前序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo043_jc_000-d3.h1s1
+    span:
+    - front
+    - 320
+    - 717
+  label: 後序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo043_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 3996
+  label: 飲食譜題辭
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo043_jc_000-d5.h1s1
+    span:
+    - body
+    - 3996
+    - 9965
+  label: 水飲類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo043_jc_000-d6.h1s1
+    span:
+    - body
+    - 9965
+    - 13239
+  label: 穀食類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo043_jc_000-d7.h1s1
+    span:
+    - body
+    - 13239
+    - 15957
+  label: 調和類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo043_jc_000-d8.h1s1
+    span:
+    - body
+    - 15957
+    - 21363
+  label: 蔬食類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo043_jc_000-d9.h1s1
+    span:
+    - body
+    - 21363
+    - 29108
+  label: 果食類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo043_jc_000-d10.h1s1
+    span:
+    - body
+    - 29108
+    - 36081
+  label: 毛羽類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo043_jc_000-d11.h1s1
+    span:
+    - body
+    - 36081
+    - 41189
+  label: 鱗介類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo043_jc_000-d12.h1s1
+    span:
+    - body
+    - 41189
+    - 41666
+  label: 跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo043_jc_000-d13.h1s1
+    span:
+    - body
+    - 41666
+    - 42216
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:180f6f51911ad1139d292f3cf56923abe05c9cc3e88e66f96a3e70b690cb6c1d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
